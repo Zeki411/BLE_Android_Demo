@@ -1,3 +1,4 @@
-# EMG-Signal-Android-Application
+# EEG-Signal-Emotion-Predictor-Android-Application
 #Bluetooth-Low-Energy
-#real-time-line-chart
+#Emotion-Predictor
+#PSD-Percent-Piechart
